@@ -1,3 +1,2 @@
 "# Mi segundo repositorio" 
-hola
 
