@@ -1,2 +1,0 @@
-"# Mi primer repositorio" 
-"# POO" 
